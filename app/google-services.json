@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832743580316",
+    "project_id": "quizzyapp-f9bed",
+    "storage_bucket": "quizzyapp-f9bed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832743580316:android:c4d2a3c950b7f7d82e4359",
+        "android_client_info": {
+          "package_name": "com.example.homeandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInzNmPOLpbDOSmbkagrrT19Mc1TB-0pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
