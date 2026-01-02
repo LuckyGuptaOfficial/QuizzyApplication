@@ -148,9 +148,4 @@ The app implements the following screens as per Figma designs:
 
 This project is confidential and proprietary. Do not share, upload, or publish without permission.
 
-## Contact
-
-For questions or issues, contact:
-- prakhar.bhatnagar@pw.live
-- saumya.singh@pw.live
 
